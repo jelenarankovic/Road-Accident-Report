@@ -4,6 +4,9 @@ This data analysis project aims to provide insight into the road accidents over 
 ### Data Used
 - *Data - Road Accident Data with over 300000 rows from the year 2000 to the year 2020.
 - *Data Cleaning & Analysis & Visualization- MS Excel
+
+  ![Dashboard](https://github.com/jelenarankovic/Road-Accident-Report/assets/57675880/87f04158-f02c-4b64-9756-1a58501b8b89)
+
 ### Questions
 -  1. What is the number of casualties?
 -  2. What is the distribution of casualties by different vehicles?
